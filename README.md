@@ -5,8 +5,11 @@
 `webpack`
 ## config
 `/app.js`
+
 修改SESSION_SECRET_KEY
+
 `invitation.config`
+
 修改教师注册码
 # run
 `npm start`
